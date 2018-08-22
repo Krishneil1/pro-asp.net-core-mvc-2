@@ -9563,7 +9563,7 @@
       ]
     },
     "System.Diagnostics.Process/4.3.0": {
-      "sha512": "VlMYx+wPzcNCfS1BVtmzXHQ0F5I91ayMx5NSL61pS7N5Bepiy9YKbdehyRvw7O+1/VFkzeYimn50IdOopmCaig==",
+      "sha512": "J0wOX07+QASQblsfxmIMFc9Iq7KTXYL3zs2G/Xc704Ylv3NpuVdo6gij6V3PGiptTxqsK0K7CdXenRvKUnkA2g==",
       "type": "package",
       "path": "system.diagnostics.process/4.3.0",
       "files": [
@@ -9748,7 +9748,7 @@
       ]
     },
     "System.Diagnostics.TraceSource/4.3.0": {
-      "sha512": "UO76UFZQR161DKznWkXmw9OenxwAO75KPNcUV/biL9pfjzgBmN/7c2GO5s5rL/Fm8l5Sim8XUsIiBWhSZ2qzYw==",
+      "sha512": "VnYp1NxGx8Ww731y2LJ1vpfb/DKVNKEZ8Jsh5SgQTZREL/YpWRArgh9pI8CDLmgHspZmLL697CaLvH85qQpRiw==",
       "type": "package",
       "path": "system.diagnostics.tracesource/4.3.0",
       "files": [
@@ -10929,7 +10929,7 @@
       ]
     },
     "System.Private.DataContractSerialization/4.3.0": {
-      "sha512": "BUGiC9e73w2bQuLv3Ja5Gbbg/Ve+1kB3oFk+yIt4oK8zTb8li11/sRzIuFRkQsVRmnIhEySMoGk18ydQiWYfbQ==",
+      "sha512": "yDaJ2x3mMmjdZEDB4IbezSnCsnjQ4BxinKhRAaP6kEgL6Bb6jANWphs5SzyD8imqeC/3FxgsuXT6ykkiH1uUmA==",
       "type": "package",
       "path": "system.private.datacontractserialization/4.3.0",
       "files": [
@@ -11730,7 +11730,7 @@
       ]
     },
     "System.Runtime.Loader/4.3.0": {
-      "sha512": "UWcb4B3ClFTv1lrQfPFrH9D0EujHM6DoxzLiaHQURFuw54R0FDb7Hu1g73ZTTbnKcCi9CeU0WKbtcx4iSVZBOg==",
+      "sha512": "DHMaRn8D8YCK2GG2pw+UzNxn/OHVfaWx7OTLBD/hPegHZZgcZh3H6seWegrC4BYwsfuGrywIuT+MQs+rPqRLTQ==",
       "type": "package",
       "path": "system.runtime.loader/4.3.0",
       "files": [
@@ -13287,7 +13287,7 @@
       ]
     },
     "System.Xml.XmlSerializer/4.3.0": {
-      "sha512": "y/oXHQh+tcBL/XtHKCjLjJ0q5sSVSlyzreLgY1GXyrvyY3Qbx80ltFAWanv5XkYAgUPiwRVSUFqCC8CDfW9JJA==",
+      "sha512": "MYoTCP7EZ98RrANESW05J5ZwskKDoN0AuZ06ZflnowE50LTpbR5yRg3tHckTVm5j/m47stuGgCrCHWePyHS70Q==",
       "type": "package",
       "path": "system.xml.xmlserializer/4.3.0",
       "files": [
@@ -13598,26 +13598,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\adam\\.nuget\\packages\\": {},
+    "C:\\Users\\Krishneil\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
-    "restoreSettings": {
-      "hideWarningsAndErrors": true
-    },
     "restore": {
-      "projectUniqueName": "C:\\Users\\adam\\Downloads\\xtest\\SportsStore\\SportsStore.Tests\\SportsStore.Tests.csproj",
+      "projectUniqueName": "C:\\Development\\pro-asp.net-core-mvc-2\\11 - SportsStore - Admin\\SportsStore\\SportsStore.Tests\\SportsStore.Tests.csproj",
       "projectName": "SportsStore.Tests",
-      "projectPath": "C:\\Users\\adam\\Downloads\\xtest\\SportsStore\\SportsStore.Tests\\SportsStore.Tests.csproj",
-      "packagesPath": "C:\\Users\\adam\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\adam\\Downloads\\xtest\\SportsStore\\SportsStore.Tests\\obj\\",
+      "projectPath": "C:\\Development\\pro-asp.net-core-mvc-2\\11 - SportsStore - Admin\\SportsStore\\SportsStore.Tests\\SportsStore.Tests.csproj",
+      "packagesPath": "C:\\Users\\Krishneil\\.nuget\\packages\\",
+      "outputPath": "C:\\Development\\pro-asp.net-core-mvc-2\\11 - SportsStore - Admin\\SportsStore\\SportsStore.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\adam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Krishneil\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -13625,15 +13622,13 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Users\\adam\\.dotnet\\NuGetFallbackFolder": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://www.myget.org/F/aspnet-contrib/api/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\adam\\Downloads\\xtest\\SportsStore\\SportsStore\\SportsStore.csproj": {
-              "projectPath": "C:\\Users\\adam\\Downloads\\xtest\\SportsStore\\SportsStore\\SportsStore.csproj"
+            "C:\\Development\\pro-asp.net-core-mvc-2\\11 - SportsStore - Admin\\SportsStore\\SportsStore\\SportsStore.csproj": {
+              "projectPath": "C:\\Development\\pro-asp.net-core-mvc-2\\11 - SportsStore - Admin\\SportsStore\\SportsStore\\SportsStore.csproj"
             }
           }
         }
